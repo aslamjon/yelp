@@ -1,0 +1,5 @@
+export const SidebarTypes = {
+    CHANGE_SIDEBAR: "CHANGE_SIDEBAR",
+    SET_CURRENT_SIDEBAR: "SET_CURRENT_SIDEBAR",
+    SET_MENU: "SET_MENU"
+}

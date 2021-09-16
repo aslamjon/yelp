@@ -1,0 +1,4 @@
+export const ArticleTypes = {
+    SET_ARTICLE_DATA: "SET_ARTICLE_DATA",
+    SET_DISCOUNT_DATA: "SET_DISCOUNT_DATA",
+}
