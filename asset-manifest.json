@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/yelp/static/js/main.cbceb17d.chunk.js",
+    "main.js.map": "/yelp/static/js/main.cbceb17d.chunk.js.map",
+    "runtime-main.js": "/yelp/static/js/runtime-main.78fdc3e5.js",
+    "runtime-main.js.map": "/yelp/static/js/runtime-main.78fdc3e5.js.map",
+    "static/js/2.9fee4eeb.chunk.js": "/yelp/static/js/2.9fee4eeb.chunk.js",
+    "static/js/2.9fee4eeb.chunk.js.map": "/yelp/static/js/2.9fee4eeb.chunk.js.map",
+    "index.html": "/yelp/index.html",
+    "static/js/2.9fee4eeb.chunk.js.LICENSE.txt": "/yelp/static/js/2.9fee4eeb.chunk.js.LICENSE.txt",
+    "static/media/ButterChicken.3154302f.png": "/yelp/static/media/ButterChicken.3154302f.png",
+    "static/media/Palov.37307472.png": "/yelp/static/media/Palov.37307472.png",
+    "static/media/PalowWithChikeen.2cab67ba.png": "/yelp/static/media/PalowWithChikeen.2cab67ba.png",
+    "static/media/Soup.22a0831c.png": "/yelp/static/media/Soup.22a0831c.png",
+    "static/media/avatar.b2708915.png": "/yelp/static/media/avatar.b2708915.png",
+    "static/media/burger 45 deg.12d62cb4.png": "/yelp/static/media/burger 45 deg.12d62cb4.png",
+    "static/media/burgerWanted.11b2d2fe.png": "/yelp/static/media/burgerWanted.11b2d2fe.png",
+    "static/media/butterChciken.4b8ed588.png": "/yelp/static/media/butterChciken.4b8ed588.png",
+    "static/media/check.2e5b71c2.svg": "/yelp/static/media/check.2e5b71c2.svg",
+    "static/media/delivery-man-runs.0ee4119a.png": "/yelp/static/media/delivery-man-runs.0ee4119a.png",
+    "static/media/order.892ba5cc.svg": "/yelp/static/media/order.892ba5cc.svg",
+    "static/media/plus.3fd698ba.svg": "/yelp/static/media/plus.3fd698ba.svg",
+    "static/media/rightArrow.623f6a67.svg": "/yelp/static/media/rightArrow.623f6a67.svg",
+    "static/media/search.cd73c011.svg": "/yelp/static/media/search.cd73c011.svg",
+    "static/media/star.de82f684.svg": "/yelp/static/media/star.de82f684.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78fdc3e5.js",
+    "static/js/2.9fee4eeb.chunk.js",
+    "static/js/main.cbceb17d.chunk.js"
+  ]
+}
